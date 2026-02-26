@@ -1,18 +1,32 @@
 # AI-Driven-AgriInsurance-Claim-Validation
 An AI-based agricultural insurance claim validation system that analyzes satellite crop images and farmer data to automatically verify damage, detect fraudulent claims, and speed up the approval process.
+
 A Full Stack Agricultural Insurance Claim Management System built for hackathon deployment.
+
 🛠 Tech Stack
+
 Frontend
+
 HTML
+
 CSS
+
 JavaScript
+
 Backend
+
 Supabase (Backend-as-a-Service)
+
 Database
+
 PostgreSQL (Cloud-hosted via Supabase)
+
 Hosting
+
 Netlify
+
 🏗 Architecture
+
 The application follows a serverless full-stack architecture:
 
 Frontend (HTML/CSS/JS)
