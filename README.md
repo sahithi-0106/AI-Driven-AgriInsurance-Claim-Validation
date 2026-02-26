@@ -74,21 +74,39 @@ No need for custom backend server
 📌 Project Structure
 
 agriai26/
+
 │
+
 ├── index.html
+
 ├── farmer.html
+
 ├── officer.html
+
 ├── government.html
+
 │
+
 ├── css/
+
 │   ├── styles.css
+
 │   └── responsive.css
+
 │
+
 ├── js/
+
 │   ├── core.js
+
 │   ├── engine.js
+
 │   ├── finance.js
+
 │   ├── chatbot.js
+
 │   └── i18n.js
+
 │
+
 └── README.md
